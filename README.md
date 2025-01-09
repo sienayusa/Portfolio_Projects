@@ -3,7 +3,7 @@ Power BI Portfolio Project: Data Professional Survey Breakdown
 
 Project Overview
 
-  This project provides a comprehensive analysis of a survey conducted among data professionals. The goal is to offer insights into various aspects such as job satisfaction, salary trends, tools and technologies used, and more. The analysis is presented using Power BI to create interactive and visually appealing dashboards.
+  This project provides a comprehensive analysis of a survey conducted among data professionals. The goal is to offer insights into various aspects such as job satisfaction, salary trends, tools and technologies used, and more. The analysis is presented using Power BI     to create interactive and visually appealing dashboards.
 
 
 
@@ -37,12 +37,12 @@ Installation
   To view the Power BI report, follow these steps:
     1. Clone this repository to your local machine using `git clone https://github.com/yourusername/your-repo-name.git`.
     2. Open the Power BI Desktop application.
-    3. Load the `.pbix` file from the cloned repository.
+    3. Load the `Data Professional Survey Breakdown.pbix` file from the cloned repository.
 
 
 
 
-Usage
+How to Use
 
   - Open the Power BI report in Power BI Desktop or Power BI Service.
   - Navigate through the different pages to explore various aspects of the survey data.
